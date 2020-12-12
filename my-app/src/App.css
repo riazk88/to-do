@@ -1,21 +1,21 @@
 body{
-  background: lightyellow;
+  background: goldenrod;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
 }
 
 button{
-  background: pink;
+  background: green;
   margin: 20px;
-  color: white;
+  color: goldenrod;
   font-weight: bold;
 }
 
 .App {
-  color: turquoise;
+  color: green;
   text-align: center;
   font-size: 40px;
-  border: 5px solid pink;
+  border: 5px solid red;
   border-radius: 25px;
   width: 500px;
   /* height: 500px; */

@@ -1,6 +1,6 @@
 # To Do App
 
-Easily add and delete items on your to-do list!
+Easily add and delete items on your Christmas list!
 
 ## Check It Out!
 

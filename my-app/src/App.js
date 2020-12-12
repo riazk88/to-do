@@ -46,7 +46,7 @@ class App extends Component {
     return (
     <div className="App">
       <div>
-        Add an Item...
+        Christmas List
         <br/>
         <input
         type="text"
