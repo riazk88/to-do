@@ -17,6 +17,15 @@ button{
   font-size: 40px;
   border: 5px solid pink;
   border-radius: 25px;
+  width: 500px;
+  /* height: 500px; */
+  top: 50px;
+  /* bottom: 0; */
+  left: 0;
+  right: 0;
+  margin: auto;
+  position: absolute;
+
 }
 
 
